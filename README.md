@@ -5,15 +5,15 @@
     <h1>Python para Análise de Dados</h1>
   </summary>
 
-- [ ] [Módulo 1 - Python: Variáveis & Tipos de Dados]
+- [X] [Módulo 1 - Python: Variáveis & Tipos de Dados]
 
-- [ ] [Módulo 2 - Python: Estruturas de Dados]
+- [X] [Módulo 2 - Python: Estruturas de Dados]
 
-- [ ] [Módulo 3 - Python: Fluxo Condicional & Repetição]
+- [X] [Módulo 3 - Python: Fluxo Condicional & Repetição]
 
-- [ ] [Módulo 4 - Python: Arquivos & Funções]
+- [X] [Módulo 4 - Python: Arquivos & Funções]
 
-- [ ] [Módulo 5 - Python: Programação Funcional]
+- [X] [Módulo 5 - Python: Programação Funcional]
 
 - [ ] [Módulo 6 - Python: Programação Orientada a Objetos]
 
